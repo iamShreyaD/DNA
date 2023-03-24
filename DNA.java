@@ -1,4 +1,8 @@
-
+/*
+ * Shreya B Deshpande
+ * This project is done through Codecademy 'Learn: Java'
+ * This program determines whether there is a protein in a strand of DNA (which is composed of a series of nucleaotides A, C, G, T)
+ */
 
 public class DNA {
 
